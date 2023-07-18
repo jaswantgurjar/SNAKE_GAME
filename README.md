@@ -26,10 +26,9 @@ How to play the game:
 Just download the SNAKEGAME.jar file
 Run it
 Start playing with the arrows keys.
-If game is over, press space to restart or just close it run again.
+If the snake collides with the board and its own body, it is game over.
+If game is over, press space to restart or just close it and run it again.
 
-
-The game is finished if the snake collision with the board and own body.
 
 
 Snake Collison:
