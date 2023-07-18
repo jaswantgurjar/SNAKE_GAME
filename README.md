@@ -13,5 +13,26 @@ Development of Java Sname game:
 Each dot of the snake is 10 px in size. The snake is controlled with the arrow keys. Initially the snake has three dots. As the snake eats apples, the dots increase in size and the score goes up. If the snake hits the boundary and the body, the game is over and if the game is over, the "game over", "Score" and "press space to restart the game" message is displayed in the middle of the board.
 
 
+How it looks:
+
 ![STARTGAME](https://github.com/jassycoder/SNAKEGAME/assets/139113439/d1c4e910-e26f-4fd9-95c4-d8fef3fd5778)
+
+How to run the project:
+
+Requirements:
+Java runtime installed
+
+How to play the game:
+Just download the SNAKEGAME.jar file
+Run it
+Start playing with the arrows keys.
+If game is over, press space to restart or just close it run again.
+
+
+The game is finished if the snake collision with the board and own body.
+
+![GAMEOVER](https://github.com/jassycoder/SNAKEGAME/assets/139113439/b47d118f-3dd2-4137-95d1-44ad66507f45)
+![collision](https://github.com/jassycoder/SNAKEGAME/assets/139113439/1986ecdd-9d73-40e4-99c4-e269a487c6e1)
+
+
 
