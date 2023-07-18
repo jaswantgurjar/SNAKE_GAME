@@ -31,8 +31,16 @@ If game is over, press space to restart or just close it run again.
 
 The game is finished if the snake collision with the board and own body.
 
-![GAMEOVER](https://github.com/jassycoder/SNAKEGAME/assets/139113439/b47d118f-3dd2-4137-95d1-44ad66507f45)
+
+Snake Collison:
+
 ![collision](https://github.com/jassycoder/SNAKEGAME/assets/139113439/1986ecdd-9d73-40e4-99c4-e269a487c6e1)
+
+
+
+Game Over:
+
+![GAMEOVER](https://github.com/jassycoder/SNAKEGAME/assets/139113439/b47d118f-3dd2-4137-95d1-44ad66507f45)
 
 
 
