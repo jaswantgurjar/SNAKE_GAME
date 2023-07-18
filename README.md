@@ -10,7 +10,7 @@
   Each time the snake eats an apple its body grows. The snake must avoid the border and its own body.
 
 
-## Development of Java Sname game:
+## Development of Java Snake game:
 
 - Each dot of the snake is 10 px in size. The snake is controlled with the arrow keys. Initially the snake has three dots. As the snake 
   eats apples, the dots increase in size and the score goes up. If the snake hits the boundary and the body, the game is over and if the 
